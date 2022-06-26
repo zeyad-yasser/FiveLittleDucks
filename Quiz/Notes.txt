@@ -1,2 +1,2 @@
 -It's just nothing than using if conditions with python 
- just testing the lang and how it works it terms of syntax stuff
+ just testing the lang and how it works it terms of syntax stuff.
