@@ -34,7 +34,3 @@ else:
             view() 
         else: 
             quit()
-
-
-    
-    
