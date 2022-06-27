@@ -1,6 +1,6 @@
 - This "project"  takes your email and  password  Saves them ,then you could  reuse whenever you need 
 - To access your Logs, 
-    you need  have a "Master Password" this password Must be very secret cuz if it knowed by anyone you kindly Fu$ked :)
+    you need to have a "Master Password" this password Must be very secret cuz if it knowed by anyone you kindly Fu$ked :)
   
   
   
